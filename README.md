@@ -1,5 +1,5 @@
 # Email-analyst-tool
-To run tool on cmd / termenal must qrite : python "tool.p ( path of tool )" "test.eml (path of email )"
+To run tool on cmd / termenal must qrite : python "tool.py ( path of tool )" "test.eml (path of email )"
 After that tool will ask you about virus total api key you must give it 
 You will give tool email file and it will give you report file .txt contains 
 
