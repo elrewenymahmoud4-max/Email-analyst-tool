@@ -1,0 +1,6 @@
+1- write in cmd / terminal :
+python "tool.py(path of tool)" "test.eml(path of email)"
+
+2- tool will ask you for virus total api key just put your key
+
+3- you will get text file name as output in the same directory of tool
